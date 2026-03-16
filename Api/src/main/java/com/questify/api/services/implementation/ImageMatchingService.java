@@ -19,7 +19,7 @@ import java.util.Map;
 @Service
 public class ImageMatchingService {
 
-    private static final double MATCH_THRESHOLD = 0.40;
+    private static final double MATCH_THRESHOLD = 0.65;
 
     @Value("${clip.service.url}")
     private String clipServiceUrl;
