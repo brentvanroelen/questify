@@ -90,7 +90,7 @@ services:
       MINIO_SECRET_KEY: ${MINIO_SECRET_KEY}
       MINIO_BUCKET_NAME: ${MINIO_BUCKET_NAME}
 
-      CLIP_SERVICE_URL: ${CLIP_SERVICE_URL}
+      CLIP_SERVICE_URL: http://clip-service:5000
     ports:
       - "8080:8080"
     networks:
