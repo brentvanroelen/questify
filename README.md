@@ -11,6 +11,12 @@
 5. **Minio**: Used for image storage.
 
 ## Sources
+Local AI chat logs (in the `ai-chat-logs` directory):
+
+ai-chat-logs/CRUD-museum-questify.json - Initial CRUD flow for creating and managing museum-related entities.
+
+ai-chat-logs/API-Paint-Verification.json - API troubleshooting and validation flow for painting verification.
+
 https://chatgpt.com/share/697e208c-ec54-8007-8594-229b45a6bfd5 - Setup react js en tailwind css
 
 https://chatgpt.com/share/697e2c11-6358-8007-8b85-c3ea725a8e8a - Created ERD and models
